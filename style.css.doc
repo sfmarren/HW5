@@ -4,7 +4,7 @@
                 <meta charset="utf-8">
                 <title> Git Test Page </title>
                 <link rel="stylesheet" type="text/css" href="style.css" />
-        body{ background: Pink; }
+            body{ background: Pink; }
         <head>
         <Sean Marren>
                 Hello World!
