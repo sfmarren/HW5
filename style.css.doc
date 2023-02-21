@@ -5,6 +5,7 @@
                 <title> Git Test Page </title>
                 <link rel="stylesheet" type="text/css" href="style.css" />
             body{ background: Pink; }
+            <a href="http://www.google.com"> Google </a>
         <head>
         <Sean Marren>
                 Hello World!
